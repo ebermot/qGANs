@@ -1,1 +1,1 @@
-# qGans
+# qGANs
